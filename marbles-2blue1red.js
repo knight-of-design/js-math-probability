@@ -13,7 +13,7 @@ function gcd(x, y) {
     return x;
 }
 
-var SCALE = 7*9*12;
+var SCALE = 7*3*2;
 var S2 = SCALE**2;
 var XB = 3*SCALE/7
 var YB = 4*SCALE/9
